@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hello
+- list1
+- list2
+- list3
+
 <!--
 **ZebAntonioli/ZebAntonioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
