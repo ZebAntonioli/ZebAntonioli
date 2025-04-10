@@ -1,9 +1,10 @@
-# Hi there 👋
+# This is my Github account for all of my coding misadventures
 
-Hello
-- list1
-- list2
-- list3
+My research interests are 
+- Microbiome analysis of wildlife
+- Emerging and zoonotic pathogens
+- Genetic disorders and variation in wildlife
+
 
 <!--
 **ZebAntonioli/ZebAntonioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
